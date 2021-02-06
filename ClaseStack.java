@@ -7,7 +7,7 @@ import java.util.Scanner;
 public class ClaseStack {
   public ClaseStack (){
     Scanner scan = new Scanner(System.in);
-    Stack<String> pila = new Stack<String>();     
+    Stack<String> pila = new Stack<String>(); 
     imprimirPila(pila);                        
   }                     
 
