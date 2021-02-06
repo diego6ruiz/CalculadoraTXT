@@ -10,9 +10,11 @@ public class Main {
     ReadFile rf = new ReadFile();
     String input = rf.convertToString();
     System.out.println("Postfix ingresado:");
-    System.out.println(input);
+    System.out.println(input); 
+    
 
     Calculadora cal = new Calculadora();
     System.out.println(cal.resolver(input));
+    
   }  
 } 
