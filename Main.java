@@ -14,7 +14,7 @@ public class Main {
     
 
     Calculadora cal = new Calculadora();
-    System.out.println(cal.resolver(input));
+    System.out.println(cal.resolver(input));// para la resolucion
     
   }  
 } 
