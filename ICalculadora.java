@@ -4,5 +4,5 @@
  */
 
 public interface ICalculadora {
-	public Double resolver(String input); 
+	public double resolver(String input); 
 }
